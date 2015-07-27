@@ -1,4 +1,4 @@
-DUMADEMO
+DEMO
 ========
 
 LAN-THU-N
